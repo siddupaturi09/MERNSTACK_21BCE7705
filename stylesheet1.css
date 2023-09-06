@@ -1,0 +1,50 @@
+table.table1{
+    border: 1px solid black;
+    border-radius: 10px;
+    background-color:#96D4D4 ;
+}
+table.table1 th{
+    border: 1px solid black;
+    border-radius: 10px;
+    background-color:#96D4D4 ;
+}
+table.table1 td {
+    border: 1px solid black;
+    border-radius: 10px;
+    background-color:#96D4D4 ;
+}
+table.table2{
+    border-collapse: separate;
+    width: 18%;
+    border-spacing: 20px;
+    margin: 20px auto;
+}
+
+table.table2 th {
+    padding: 18px;
+    border: 2px solid #98CD2B;
+}
+table.table2 td {
+    padding: 18px;
+    border: 2px solid #98CD2B;
+}
+
+table.table2 td.type1 {
+    border-radius: 5px;
+}
+
+table.table2 td.type2 {
+    border-radius: 10px;
+}
+
+table.table2 td.type3 {
+    border-radius: 3px;
+}
+
+table.table2 td.type4 {
+    border-radius: 50%;
+}
+
+table.table2 td.type5 {
+    border-radius: 3px 15px;
+}
